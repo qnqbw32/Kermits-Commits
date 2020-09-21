@@ -65,10 +65,6 @@ menu:
 legal:
   - title:             LICENSE
     url:               /LICENSE/
-  - title:             NOTICE
-    url:               /NOTICE/
-  - title:             CHANGELOG
-    url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2020. All rights reserved.
@@ -109,7 +105,7 @@ remote_theme: hydecorp/hydejack@v9.0.0-rc.6
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
+accent_image:          /assets/img/blog/sidebar.jpg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,

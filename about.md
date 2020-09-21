@@ -10,5 +10,4 @@ redirect_from:
 ---
 
 # About
-{:toc .large-only}
 <!--author-->
