@@ -55,6 +55,8 @@ menu:
     url:               /example/
   - title:             Data Visualization
     url:               /datavisualization/
+  - title:             Recommendation Algorithm
+    url:               /recommendation_algorithm/
   - title:             Algorithm
     url:               /algorithm/
   - title:             Documentation
