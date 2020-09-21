@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 데이터 시각화
+title: 데이터 시각화 (1)
 description: >
   데이터 시각화를 설명하기 위한 페이지로 사용함.
 sitemap: false
