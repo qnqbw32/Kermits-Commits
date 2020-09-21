@@ -56,7 +56,7 @@ menu:
   - title:             Data Visualization
     url:               /datavisualization/
   - title:             Recommendation Algorithm
-    url:               /recommendation_algorithm/
+    url:               /recommendationalgorithm/
   - title:             Algorithm
     url:               /algorithm/
   - title:             Documentation
