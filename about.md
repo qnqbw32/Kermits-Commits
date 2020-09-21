@@ -10,4 +10,6 @@ redirect_from:
 ---
 
 # About
+<script src="https://profile.codersrank.io/widget/widget.js"></script>
+<codersrank-widget username="qnqbw32"></codersrank-widget>
 <!--author-->

@@ -105,6 +105,10 @@ github:
   name: GitHub
   icon: icon-github
   prepend: "https://github.com/"
+codersrank:
+  name: CodersRank
+  icon: icon-github
+  prepend: "https://profile.codersrank.io/user/"
 npm:
   name: npm
   icon: icon-npm
