@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 전화번호 목록
-tags: [algorithm,TEST]
 description: >
   전화번호 목록 알고리즘 문제 풀이
 sitemap: false
